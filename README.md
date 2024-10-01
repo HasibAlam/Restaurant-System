@@ -9,8 +9,7 @@ or locally download and
 npm install
 npm start
 
-# swe30003-assignment3
- 
+
 ## Running our application
 Our entire application (Frontend/API/Database) is deployed at https://relaxingkoala.vercel.app/
 
