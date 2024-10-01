@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "daisyui/dist/full.css";
+
+/* Positioning for the Light/Dark mode icons */
+.theme-buttons {
+	display: flex; /* Use flexbox to align items horizontally */
+	gap: 2em; /* Add some space between buttons*/
+	position: absolute;
+	bottom: 1em;
+	left: 0;
+	right: 0;
+	justify-content: center;
+}
